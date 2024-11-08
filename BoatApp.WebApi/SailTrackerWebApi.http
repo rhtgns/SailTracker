@@ -1,0 +1,6 @@
+@SailTracker.WebApi_HostAddress = http://localhost:5099
+
+GET {{SailTracker.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
